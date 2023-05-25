@@ -96,7 +96,7 @@
     "@reduxjs/toolkit": "^1.8.0",
     "@safe-global/safe-ethers-lib": "^1.7.0",
     "@sentry/react": "^7.3.0",
-    "@sentry/tracing": "^7.3.0",
+    "@sentry/tracing": "^7.50.0",
     "@sentry/webpack-plugin": "^1.17.1",
     "@uniswap/governance": "^1.0.2",
     "@uniswap/liquidity-staker": "^1.0.2",
