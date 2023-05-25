@@ -95,7 +95,7 @@
     "@react-spring/web": "^9.6.1",
     "@reduxjs/toolkit": "^1.8.0",
     "@safe-global/safe-ethers-lib": "^1.7.0",
-    "@sentry/react": "^7.3.0",
+    "@sentry/react": "^7.50.0",
     "@sentry/tracing": "^7.3.0",
     "@sentry/webpack-plugin": "^1.17.1",
     "@uniswap/governance": "^1.0.2",
