@@ -68,7 +68,7 @@
     ]
   },
   "dependencies": {
-    "@amplitude/analytics-browser": "^1.1.4",
+    "@amplitude/analytics-browser": "^1.10.2",
     "@babel/runtime": "^7.17.0",
     "@coinbase/wallet-sdk": "^3.3.0",
     "@cowprotocol/app-data": "v0.1.0-alpha.0",
