@@ -76,7 +76,7 @@
     "@cowprotocol/cow-runner-game": "^0.2.9",
     "@cowprotocol/cow-sdk": "^2.0.3",
     "@cowprotocol/ethflowcontract": "cowprotocol/ethflowcontract.git#v1.0.0-artifacts",
-    "@davatar/react": "1.8.1",
+    "@davatar/react": "1.11.1",
     "@fontsource/ibm-plex-mono": "^4.5.1",
     "@fontsource/inter": "^4.5.1",
     "@gnosis.pm/safe-apps-web3-react": "^1.5.0",
