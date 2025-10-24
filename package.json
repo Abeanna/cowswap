@@ -150,7 +150,7 @@
     "ms.macro": "^2.0.0",
     "multicodec": "^3.0.1",
     "multihashes": "^4.0.2",
-    "node-vibrant": "^3.2.1-alpha.1",
+    "node-vibrant": "^4.0.0",
     "paraswap": "npm:@nenad91/paraswap#5.1.0",
     "polished": "^3.3.2",
     "polyfill-object.fromentries": "^1.0.1",
